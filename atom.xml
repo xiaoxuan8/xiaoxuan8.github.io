@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>xiao xuan</title>
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://xiaoxuan8.github.io/blog/"/>
   <updated>2016-04-20T09:52:08.086Z</updated>
